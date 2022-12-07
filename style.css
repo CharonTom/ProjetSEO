@@ -757,6 +757,7 @@ h4 {
 .whitebold {
     color: #ffffff !important;
     font-weight: 700;
+    text-shadow: 0 0 10px black;
 }
 
 
