@@ -26,9 +26,10 @@ référencement du site internet.
 ![Tableau d'erreur SEO](https://github.com/CharonTom/ProjetSEO/blob/main/img/Tableau%20SEO.png)
 ![Tableau d'erreur Access](https://github.com/CharonTom/ProjetSEO/blob/main/img/Tableau%20Access.png)
 
-Je les ai appliquées directement sur le code source de notre site web et le
-résultat est flagrant.
+### Je les ai appliquées directement sur le code source de notre site web et le résultat est flagrant.
 
+![Avant Optimisation](https://github.com/CharonTom/ProjetSEO/blob/main/img/Index%20avant.png)
+![Après Optimisation](https://github.com/CharonTom/ProjetSEO/blob/main/img/index%20apr%C3%A8s.PNG)
 
 
 ### Technologies utilisées:
