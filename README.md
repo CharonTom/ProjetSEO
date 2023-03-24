@@ -2,7 +2,7 @@
 
 ![Logo du site](https://github.com/CharonTom/ProjetSEO/blob/main/img/logo.png)
 
-Ceci est le quatrième de ma formation OpenClassRooms.
+Ceci est le quatrième projet de ma formation OpenClassRooms.
 
 ### J'ai Optimisé un site web existant 
 
