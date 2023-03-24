@@ -29,14 +29,14 @@ J’ai ainsi pu répertorier jusqu’à 19 problèmes liés à **l’accessibili
 
 ### Je les ai appliquées directement sur le code source de notre site web et le résultat est flagrant.
 
-###Avant l'optimisation :
+### Avant l'optimisation :
 
 
 ![Avant Optimisation](https://github.com/CharonTom/ProjetSEO/blob/main/img/Index%20avant.png)
 
 
 
-###Après l'optimisation:
+### Après l'optimisation:
 
 
 ![Après Optimisation](https://github.com/CharonTom/ProjetSEO/blob/main/img/index%20apr%C3%A8s.PNG)
