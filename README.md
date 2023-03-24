@@ -4,7 +4,7 @@
 
 **Projet accès sur le SEO**
 
-Ceci est le quatrième projet de ma formation OpenClassRooms.
+Ceci est le quatrième projet de ma formation OpenClassRooms **il est axé sur le SEO**.
 
 ### J'ai Optimisé un site web existant 
 
