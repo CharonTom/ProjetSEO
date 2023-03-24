@@ -2,6 +2,8 @@
 
 ![Logo du site](https://github.com/CharonTom/ProjetSEO/blob/main/img/logo.png)
 
+**Projet accès sur le SEO**
+
 Ceci est le quatrième projet de ma formation OpenClassRooms.
 
 ### J'ai Optimisé un site web existant 
