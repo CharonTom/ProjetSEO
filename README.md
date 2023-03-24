@@ -1,6 +1,6 @@
 # Projet 4 : La Panthère - Agence De Web Design
 
-![Logo du site](https://github.com/CharonTom/OhMyFood/blob/main/images/ohmyfood%402x.svg)
+![Logo du site](https://github.com/CharonTom/ProjetSEO/blob/main/img/logo.png)
 
 Ceci est le quatrième de ma formation OpenClassRooms.
 
@@ -22,8 +22,13 @@ Suite à la demande du client, j’ai réalisé un audit du site web que j’ai 
 J’ai ainsi pu répertorier jusqu’à 19 problèmes liés à l’accessibilité et le
 référencement du site internet.
 
+
+![Tableau d'erreur SEO](https://github.com/CharonTom/ProjetSEO/blob/main/img/Tableau%20SEO.png)
+![Tableau d'erreur Access](https://github.com/CharonTom/ProjetSEO/blob/main/img/Tableau%20Access.png)
+
 Je les ai appliquées directement sur le code source de notre site web et le
 résultat est flagrant.
+
 
 
 ### Technologies utilisées:
@@ -32,4 +37,4 @@ résultat est flagrant.
 
 ---
 
-Vous pouvez visiter le site web ici : https://charontom.github.io/OhMyFood/
+Vous pouvez visiter le site web ici : https://charontom.github.io/ProjetSEO/
