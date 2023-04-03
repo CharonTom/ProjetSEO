@@ -28,7 +28,7 @@ J’ai ainsi pu répertorier jusqu’à 19 problèmes liés à **l’accessibili
 ![Tableau d'erreur SEO](https://github.com/CharonTom/ProjetSEO/blob/main/img/Tableau%20SEO.png)
 ![Tableau d'erreur Access](https://github.com/CharonTom/ProjetSEO/blob/main/img/Tableau%20Access.png)
 
-### J'ai appliquées mes recommandations directement sur le code source du site web et le résultat est flagrant.
+### J'ai appliqué mes recommandations directement sur le code source du site web et le résultat est flagrant.
 
 ### Avant l'optimisation :
 
