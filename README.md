@@ -1,6 +1,6 @@
 # Projet 4 : La Panthère - Agence De Web Design
 
-![Présentation du site](https://github.com/CharonTom/my-website/blob/main/src/images/panthere.png)
+![Présentation du site](https://github.com/CharonTom/my-website/blob/main/src/assets/img/panthere.png)
 
 
 Ceci est le quatrième projet de ma formation OpenClassRooms, **il est axé sur le SEO**.
